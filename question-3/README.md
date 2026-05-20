@@ -1,4 +1,4 @@
-## Question 3: Class Design
+## Question 3: Data Analysis with ArrayList
 
 ## My Approach: 
 
