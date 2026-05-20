@@ -2,8 +2,8 @@
 
 ## My Approach: 
 
-## Course Connections
+## Course Connections:
 
-## What Gave Me Trouble
+## What Gave Me Trouble:
 
-## What I Would Do Differently
+## What I Would Do Differently:
