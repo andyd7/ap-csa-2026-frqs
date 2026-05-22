@@ -17,4 +17,18 @@ public class solution{
       }
     }
   }
+
+ public String getShortenedName(){
+  String result = "";
+  int i = 0;
+   while(i < username.length()){
+    if(i + 1 < username.length() && username.substring(i+1, i+2){
+     i+= 2;
+    } else {
+     result += username.substring(i,i+1);
+     i++;
+    }
+   }
+  return result;
+ }
 }
